@@ -27,10 +27,6 @@ This tool fetches Formula 1 telemetry data using FastF1 and allows you to compar
    ```bash
    python3 launch_dashboard.py
    ```
-   Or directly:
-   ```bash
-   python3 f1_dashboard.py
-   ```
 
 
 ## Files
