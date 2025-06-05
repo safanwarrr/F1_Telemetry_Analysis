@@ -1,5 +1,3 @@
-# F1_Telemetry_Analysis
-
 # F1 Telemetry Analysis Tool
 
 This tool fetches Formula 1 telemetry data using FastF1 and allows you to compare two drivers' fastest laps side by side.
