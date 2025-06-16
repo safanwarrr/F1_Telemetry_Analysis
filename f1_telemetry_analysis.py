@@ -3,7 +3,7 @@
 F1 Telemetry Data Retrieval and Comparison Script
 
 This script fetches F1 telemetry data using FastF1 and prepares it for
-comparing mutliple drivers' telemetry data side by side.
+comparing two drivers' fastest laps side by side.
 """
 
 import fastf1
